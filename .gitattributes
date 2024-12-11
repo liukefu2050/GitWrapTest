@@ -1,5 +1,2 @@
-“`
-* -text
-“`
-
-*.* trailing-space
+* -text  
+*.* text=auto trailing-space  
